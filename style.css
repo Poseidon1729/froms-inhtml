@@ -21,3 +21,20 @@
 form{
     margin-left: 10px;
 }
+#a2{
+    position: fixed;
+    top: 90px;
+    right: 70px;
+    width: 326px;
+    background-color: lightseagreen;
+    padding: 10px;
+    border: 1.4px solid black;
+}
+#a4{
+    position: fixed;
+    top: 250px;
+    right: 70px;
+    background-color: springgreen;
+    padding: 10px;
+    border: 1.4px solid black;
+}
