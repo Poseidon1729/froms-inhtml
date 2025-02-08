@@ -1,0 +1,23 @@
+#a1{
+    border: 1px, solid, transparent ;
+    padding: 20px;
+    background-color: rgb(8, 107, 8);
+    color: beige;
+    text-align: center;
+}
+
+#fname{
+    margin: 20px;
+}
+#god{
+    color: darkseagreen;
+    margin-top: 28px;
+}
+#devil{
+    color: tomato;
+    margin-top: 28px;
+    margin-left: 30px;
+}
+form{
+    margin-left: 10px;
+}
